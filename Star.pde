@@ -14,4 +14,5 @@ class Star //note that this class does NOT extend Floater
     fill(myCol1,myCol2,myCol3);
     ellipse(myX,myY,5,5);
   }
+  
 }
